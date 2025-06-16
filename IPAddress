@@ -2,4 +2,6 @@ B8-27-EB-84-69-16    192.168.1.155  radiusServer-155
 DC-A6-32-BF-6C-BA    192.168.1.115  LdapServer-115
 E4-5F-01-40-1C-F6    192.168.1.112  LdapServer-112
 DC-A6-32-E5-94-06    192.168.1.44   OPCLds-44
-
+                     192.168.1.33  radiusServer-33
+B8-27-EB-AA-DE-B7    192.168.1.20
+E4-5F-01-40-1D-A4    192.168.1.123 OPCServer-123
